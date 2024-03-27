@@ -71,6 +71,7 @@
 </div>
 
 ###
+<summary>:zap: Recent GitHub Activites</summary>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
