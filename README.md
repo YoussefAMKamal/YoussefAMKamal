@@ -73,7 +73,7 @@
 ###
 <h3 align="left">⚡ Recent GitHub Activites:</h3>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
 
 ###
