@@ -71,7 +71,7 @@
 </div>
 
 ###
-<summary>⚡ Recent GitHub Activites</summary>
+<h3 align="left">⚡ Recent GitHub Activites:</h3>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
