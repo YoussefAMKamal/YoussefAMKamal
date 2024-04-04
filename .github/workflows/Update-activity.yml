@@ -5,7 +5,7 @@ name: Update Activities
 # Controls when the workflow will run
 on:
    schedule:
-      - cron: "30 * * * *"
+      - cron: "*/30 * * * *"
    workflow_dispatch:
 jobs:
   build:
@@ -16,6 +16,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@main
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
