@@ -6,14 +6,6 @@
 
 ###
 
-<!--
-<div align="center">
-  <img height="200" src="https://github.com/YoussefAMKamal/YoussefAMKamal/assets/113982207/60e993b2-222b-4f24-9529-0086f9a1b34e"  />
-</div>
--->
-
-###
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 ###
@@ -71,7 +63,7 @@
 </div>
 
 ###
-<h3 align="left">⚡ Recent GitHub Activites:</h3>
+#<h3 align="left">⚡ Recent GitHub Activites:</h3>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
